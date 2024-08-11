@@ -1,0 +1,2 @@
+
+export { Regular } from './Regular';
